@@ -6,7 +6,7 @@
 #
 # docker push gbrail/go-rocksdb-x.y.z
 
-FROM  golang:1.6
+FROM  golang:1.6.2
 
 ENV GO15VENDOREXPERIMENT=1
 
